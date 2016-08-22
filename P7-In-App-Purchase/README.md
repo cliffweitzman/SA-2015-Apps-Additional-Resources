@@ -1,7 +1,5 @@
----
-title: "Adding In App Purchases to your App"
-slug: adding-iap-app
----
+
+#Setting Up In App Purchases
 
 As your product nears readiness for the App Store, the thought may have crossed your mind to try to make some money off your app or game.  There are two mechanisms to do this: up front purchase cost and in app purchases.  Up front purchase will ensure that you make some money with each download, but vasty decreases download count.  Its much more common (and profitable) to make the download free, but offer things to buy once the user is engaged with the product.  This tutorial will walk through the steps required to add an in app purchase, or IAP, to your app or game.  We will start with a couple assumptions: you already have an Apple developer account and the app is already added to your developer account in iTunes Connect.  The first step is documenting the purchase in iTunes Connect.
 
